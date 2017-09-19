@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    <string name="id_analytics">UA-69492027-2</string>
+    -->
+
+    <string name="banner" translatable="false">ca-app-pub-3565902738453119/3179380587</string>
+
+    <string name="aplicativo">Calculadora Financeira</string>
+    <string name="app_name" translatable="false">Finance</string>
+
+    <string name="botao_calcular">Calcular</string>
+    <string name="botao_limpar">Limpar</string>
+
+    <string name="contato" translatable="false">mm.mobilebr@gmail.com</string>
+    <string name="copyright" translatable="false">MM Mobile</string>
+
+    <string name="desconto_comercial">Comercial</string>
+    <string name="desconto_composto">Desconto Composto</string>
+    <string name="desconto_racional">Racional</string>
+    <string name="desconto_simples">Desconto Simples</string>
+
+    <string name="juros_compostos">Juros Compostos</string>
+    <string name="juros_simples">Juros Simples</string>
+
+    <string name="label_aplicativo">Aplicativo:</string>
+    <string name="label_numero_parcelas">Número de Parcelas:</string>
+    <string name="label_contato">Contato:</string>
+    <string name="label_copyright" translatable="false">Copyright:</string>
+    <string name="label_taxa">Taxa (%):</string>
+    <string name="label_tipo_calculo_juros">Tipo de Cálculo:</string>
+    <string name="label_valor_juros">Valor Juros:</string>
+    <string name="label_valor_futuro">Valor Futuro:</string>
+    <string name="label_valor_parcela">Valor Parcela:</string>
+    <string name="label_valor_presente">Valor Presente:</string>
+    <string name="label_versao">Versão:</string>
+    <string name="label_tipo_desconto">Tipo de Desconto:</string>
+    <string name="label_valor_nominal">Valor Nominal:</string>
+    <string name="label_tempo">Tempo:</string>
+    <string name="label_valor_desconto">Valor do Desconto:</string>
+    <string name="label_valor_calculado">Valor Calculado:</string>
+    <string name="label_tipo_calculo_financiamentos">Tipo de Cálculo:</string>
+    <string name="label_valor_financiado">Valor Financiado:</string>
+    <string name="label_parcelamento">Parcelas</string>
+    <string name="label_valor">Valor:</string>
+    <string name="label_percentual">Percentual (%):</string>
+    <string name="label_resultado">Resultado:</string>
+    <string name="label_valor_acrescimo">Valor Acréscimo:</string>
+    <string name="label_valor_desc">Valor Desconto:</string>
+
+    <string name="message_1">Não foi possível realizar o cálculo. Revise os valores informados e tente novamente !</string>
+
+    <string name="numero_parcela">Número da Parcela:</string>
+
+    <string name="title_section1">Juros</string>
+    <string name="title_section2">Descontos</string>
+    <string name="title_section3">Financiamentos</string>
+    <string name="title_section4">Sobre</string>
+    <string name="title_section5">Porcentagem</string>
+    <string name="title_message_1">Aviso</string>
+    <string name="tabela_sac">Tabela SAC</string>
+    <string name="tabela_price">Tabela PRICE</string>
+
+    <string name="valor_saldo">Valor Saldo:</string>
+    <string name="valor_amortizacao">Valor Amortização:</string>
+    <string name="valor_juros">Valor Juros:</string>
+    <string name="valor_parcela">Valor Parcela:</string>
+
+</resources>
